@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kritikatripathi03
 - 👀 I’m interested in coding, travelling and listening to music.
-- 🌱 I’m currently pursuing science in my school.
+- 🌱 I’m currently pursuing B.Tech in Computer Science Engineering with specialisation in Artificial Intelligence and Machine Learning.
 
 
 <!---
